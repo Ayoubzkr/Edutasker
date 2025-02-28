@@ -65,8 +65,7 @@
 ### Prérequis
 - PHP 8.1+ 🐘
 - MySQL 8.0+ 🗃️
-- Serveur web (Apache/Nginx) 🌐
-- Composer 📦
+- Serveur web  🌐
 
 ### Étapes
 1. Cloner le dépôt
