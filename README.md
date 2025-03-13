@@ -69,5 +69,5 @@
 
 ### Étapes
 1. Cloner le dépôt
-```bash
+`````bash
 git clone https://github.com/Ayoubzkr/Edutasker.git && cd Edutasker
