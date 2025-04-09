@@ -67,7 +67,5 @@
 - MySQL 8.0+ 🗃️
 - Serveur web  🌐
 
-### Étapes
-1. Cloner le dépôt
-`````bash
+
 git clone https://github.com/Ayoubzkr/Edutasker.git && cd Edutasker
